@@ -8,12 +8,12 @@
   "channels": [
     {
       "cid": 0,
-      "name": "The Boys,The Boys S01 E01",
+      "name": "S01E01",
       "stream_url": "http://psrv.io:80/series/tqFZg0QJBm6JMv/6982333175/26336.mp4"
     },
     {
       "cid": 0,
-      "name": "The Boys,The Boys S01 E02",
+      "name": "S01E02",
       "stream_url": "http://psrv.io:80/series/tqFZg0QJBm6JMv/6982333175/26337.mp4"
     }
   ]
