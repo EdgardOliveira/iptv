@@ -1,13 +1,13 @@
 {
   "categories": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Series"
     }
   ],
   "channels": [
     {
-      "cid": 0,
+      "cid": 1,
       "name": "The Boys S01E01",
       "stream_url": "http://psrv.io:80/series/tqFZg0QJBm6JMv/6982333175/26336.mp4"
     },
